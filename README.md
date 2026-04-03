@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm David Hocker</h1>
+<h1 align="center">Hi 👋, I'm David Hocker (he/him)</h1>
 <h3 align="center">a computational neuroscientist and deep learning researcher</h3>
 
-- 🔭 I’m currently working on **theory of curriculum learning in RNNs**
+- 📚 My background is in **dynamical systems analysis, reinforcement learning, and subjective decision making**
 
-- 👯 I’m looking to collaborate on **social coordination behaviors**
+- 🔭 I build and analyze deep learning models to understand decision making in living systems
+- 🔭 I’m currently working on 
+    -- **theory of curriculum learning in RNNs**
+    -- **how are compositional tasks learned efficiently?**
+
+- 👯 I'm interesed in understanding representations of I’m looking to collaborate on **studying social coordination behaviors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
