@@ -3,12 +3,16 @@
 
 - 📚 My background is in **dynamical systems analysis, reinforcement learning, and subjective decision making**
 
-- 🔭 I build and analyze deep learning models to understand decision making in living systems
-- 🔭 I’m currently working on 
-    -- **theory of curriculum learning in RNNs**
-    -- **how are compositional tasks learned efficiently?**
+- 🔭 I build and analyze deep learning models to understand learning decision making in living and artifical systems
+- 🔭 I’m currently working on:
+  
+    - **theory of curriculum learning in RNNs**
+  
+    - **how are compositional tasks learned efficiently?**
+  
+    - **hierarchical latent state space modeling**
 
-- 👯 I'm interesed in understanding representations of I’m looking to collaborate on **studying social coordination behaviors**
+- 👯 I'm interesed in collaborating on:  **studying socially coordinated behaviors in living and artifical systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
